@@ -19,6 +19,8 @@ Take this daily knowledge pills to get better in Python.
 
 You can take as many as you want, there are no known contraindications.
 
+- [Day 001: What does `if __name__ == "__main__":` do?](./pills/day-001)
+
 ## References
 
 - [w3schools](https://www.w3schools.com/python/default.asp)
