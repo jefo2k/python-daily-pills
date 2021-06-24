@@ -22,6 +22,9 @@ You can take as many as you want, there are no known contraindications.
 - [Day 001: What does `if __name__ == "__main__":` do?](./pills/day-001)
 - [Day 002: The dir function](./pills/day-002)
 - [Day 003: Sorting lists](./pills/day-003)
+- [Day 004: Find element in a list](./pills/day-004)
+- [Day 005: The Python Command Line (REPL)](./pills/day-005)
+- [Day 006: Python Indentation](./pills/day-006)
 
 ## References
 
