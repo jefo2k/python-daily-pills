@@ -28,6 +28,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 007: Python Comments](./pills/day-007)
 - [Day 008: Variables in Python](./pills/day-008)
 - [Day 009: Python Data Types](./pills/day-009)
+- [Day 010: Python Operators (Part 1)](./pills/day-010)
 
 ## References
 
