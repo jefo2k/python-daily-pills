@@ -25,9 +25,13 @@ You can take as many as you want, there are no known contraindications.
 - [Day 004: Find element in a list](./pills/day-004)
 - [Day 005: The Python Command Line (REPL)](./pills/day-005)
 - [Day 006: Python Indentation](./pills/day-006)
+- [Day 007: Python Comments](./pills/day-007)
+- [Day 008: Variables in Python](./pills/day-008)
+- [Day 009: Python Data Types](./pills/day-009)
 
 ## References
 
 - [realpython](https://realpython.com)
 - [programiz](https://www.programiz.com/python-programming)
 - [w3schools](https://www.w3schools.com/python)
+- [pythonexamples](https://pythonexamples.org)
