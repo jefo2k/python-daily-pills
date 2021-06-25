@@ -10,9 +10,11 @@ Python divides the operators in the following groups:
 - Membership operators
 - Bitwise operators
 
-This is the first of a serie of two pills about Python operators. In this one we are going to cover Arithmetic, Assignment, Comparison and Logical operators.
+This is the first of a serie of two pills about Python operators. In this one we are going to cover Arithmetic, Assignment, Comparison and Logical operators. For the last pill in this serie, [click here](../day-011).
 
 ## Python Arithmetic Operators
+
+Arithmetic operators are used with numeric values to perform common mathematical operations:
 
 Operator | Name | Example
 --- | --- | ---
@@ -25,6 +27,8 @@ Operator | Name | Example
 `//` | Floor division | `x // y`
 
 ## Python Assignment Operators
+
+Assignment operators are used to assign values to variables:
 
 Operator | Example | Same As
 --- | --- | ---
@@ -44,6 +48,8 @@ Operator | Example | Same As
 
 ## Python Comparison Operators
 
+Comparison operators are used to compare two values:
+
 Operator | Name | Example
 --- | --- | ---
 `==` | Equal | `x == y`
@@ -54,6 +60,8 @@ Operator | Name | Example
 `<=` | Less than or equal to | `x <= y`
 
 ## Python Logical Operators
+
+Logical operators are used to combine conditional statements:
 
 Operator | Description | Example
 --- | --- | ---
