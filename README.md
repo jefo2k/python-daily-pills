@@ -30,6 +30,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 009: Python Data Types](./pills/day-009)
 - [Day 010: Python Operators (Part 1)](./pills/day-010)
 - [Day 011: Python Operators (Part 2)](./pills/day-011)
+- [Day 012: Python primitive data types in-depth: string, int, float and boolean](./pills/day-012)
 
 ## References
 
