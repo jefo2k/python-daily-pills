@@ -2,7 +2,7 @@
 
 This time we will show how easy sort a list in Python is.
 
-> Note: Whe have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
+> Note: We have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
 ## Symptoms
 
