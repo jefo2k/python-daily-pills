@@ -2,6 +2,8 @@
 
 This time we will show how easy sort a list in Python is.
 
+> Note: Whe have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
+
 ## Symptoms
 
 You need to put the elements of a list in order and don't know how.
@@ -31,8 +33,6 @@ Use `sort` function:
 >>> avengers_sorted_reverse
 ['Thor', 'Spider-Man', 'Iron Man', 'Hulk', 'Captain America', 'Black Panther', 'Ant-Man']
 ```
-
-> Note: the "`>>>`" in the example above indicates that the command was executed in the Python interpreter, also known as [REPL](https://docs.python.org/3/tutorial/interpreter.html)
 
 ## Explanation
 

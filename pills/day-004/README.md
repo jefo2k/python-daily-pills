@@ -30,7 +30,7 @@ else:
 Thor is an Avenger!
 ```
 
-> Note: the "`>>>`" in the example above indicates that the command was executed in the Python interpreter, also known as [REPL](https://docs.python.org/3/tutorial/interpreter.html)
+> Note: Whe have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
 ## Explanation
 

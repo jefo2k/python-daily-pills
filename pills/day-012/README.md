@@ -11,7 +11,7 @@ Python has four primitive data types:
 
 Lets deep dive into each one of them:
 
-> Note: Whe have used the Python interpreter, also known as `REPL` to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
+> Note: Whe have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
 ## Integer
 
