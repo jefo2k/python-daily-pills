@@ -19,18 +19,19 @@ Take this daily knowledge pills to get better in Python.
 
 You can take as many as you want, there are no known contraindications.
 
-- [Day 001: What does `if __name__ == "__main__":` do?](./pills/day-001)
-- [Day 002: The dir function](./pills/day-002)
-- [Day 003: Sorting lists](./pills/day-003)
-- [Day 004: Find element in a list](./pills/day-004)
-- [Day 005: The Python Command Line (REPL)](./pills/day-005)
-- [Day 006: Python Indentation](./pills/day-006)
-- [Day 007: Python Comments](./pills/day-007)
-- [Day 008: Variables in Python](./pills/day-008)
-- [Day 009: Python Data Types](./pills/day-009)
-- [Day 010: Python Operators (Part 1)](./pills/day-010)
-- [Day 011: Python Operators (Part 2)](./pills/day-011)
-- [Day 012: Python primitive data types in-depth: string, int, float and boolean](./pills/day-012)
+- [Day 001 - What does `if __name__ == "__main__":` do?](./pills/day-001)
+- [Day 002 - The dir function](./pills/day-002)
+- [Day 003 - Sorting lists](./pills/day-003)
+- [Day 004 - Find element in a list](./pills/day-004)
+- [Day 005 - The Python Command Line (REPL)](./pills/day-005)
+- [Day 006 - Python Indentation](./pills/day-006)
+- [Day 007 - Python Comments](./pills/day-007)
+- [Day 008 - Variables in Python](./pills/day-008)
+- [Day 009 - Python Data Types](./pills/day-009)
+- [Day 010 - Python Operators (Part 1)](./pills/day-010)
+- [Day 011 - Python Operators (Part 2)](./pills/day-011)
+- [Day 012 - Python primitive data types in-depth: string, int, float and boolean](./pills/day-012)
+- [Day 013 - Python daily pills: Built-in Data Structures (Part 1): Lists](./pills/day-013)
 
 ## References
 
