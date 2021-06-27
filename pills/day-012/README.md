@@ -70,7 +70,7 @@ Hello
 
 # let's change first_string
 >>> first_string = "I have changed"
->>> print(second_string)
+>>> print(first_string)
 Hello
 ```
 
