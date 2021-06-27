@@ -1,4 +1,4 @@
-# Python daily pills - Day 004: Find element in a list
+# [Python daily pills] Day 004 - Find element in a list
 
 Now it's time to learn how to find if an element is inside a list.
 

@@ -1,4 +1,4 @@
-# Python daily pills - Day 009: Python Data Types
+# [Python daily pills] Day 009 - Python Data Types
 
 Variables can store data of different types, and different types can do different things.
 

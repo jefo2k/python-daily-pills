@@ -1,4 +1,4 @@
-# Python daily pills - Day 001: What does `if __name__ == "__main__":` do?
+# [Python daily pills] Day 001 - What does `if __name__ == "__main__":` do?
 
 For this pill, we'll use a simple [flask app](./src).
 

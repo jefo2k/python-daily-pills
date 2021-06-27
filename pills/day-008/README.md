@@ -1,4 +1,4 @@
-# Python daily pills - Day 008: Variables in Python
+# [Python daily pills] Day 008 - Variables in Python
 
 Variables are containers for storing data values.
 

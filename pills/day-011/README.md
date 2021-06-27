@@ -1,4 +1,4 @@
-# Python daily pills - Day 010: Python Operators (Part 1)
+# [Python daily pills] Day 011 - Python Operators (Part 1)
 
 Python divides the operators in the following groups:
 

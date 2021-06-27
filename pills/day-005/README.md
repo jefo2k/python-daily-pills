@@ -1,4 +1,4 @@
-# Python daily pills - Day 005: The Python Command Line (REPL)
+# [Python daily pills] Day 005 - The Python Command Line (REPL)
 
 To test a short amount of code in python sometimes it is quickest and easiest not to write the code in a file. This is made possible because Python can be used as a command line in an environment called REPL.
 

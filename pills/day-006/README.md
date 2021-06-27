@@ -1,4 +1,4 @@
-# Python daily pills - Day 006: Python Indentation
+# [Python daily pills] Day 006 -  Python Indentation
 
 Indentation refers to the spaces at the beginning of a code line.
 

@@ -1,8 +1,10 @@
-# Python daily pills - Day 003: Sorting lists
+# [Python daily pills] Day 003 - Sorting lists
 
 This time we will show how easy sort a list in Python is.
 
 > Note: We have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
+
+> Note: A more in-depth pill about Python Lists can be found [here](../day-013).
 
 ## Symptoms
 

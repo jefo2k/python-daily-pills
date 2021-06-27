@@ -1,4 +1,4 @@
-# Python daily pills - Day 007: Python Comments
+# [Python daily pills] Day 007 - Python Comments
 
 Comments can be used to explain Python code.
 

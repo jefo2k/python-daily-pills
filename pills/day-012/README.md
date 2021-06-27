@@ -1,4 +1,4 @@
-# Python daily pills - Day 012: Python primitive data types in-depth: string, int, float and boolean
+# [Python daily pills] Day 012 - Python primitive data types in-depth: string, int, float and boolean
 
 Primitive data structures are the simplest forms of representing data.
 

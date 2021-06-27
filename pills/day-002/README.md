@@ -1,4 +1,4 @@
-# Python daily pills - Day 002: The dir function
+# [Python daily pills] Day 002 - The dir function
 
 In this pill we will cover a powerful inbuilt function in Python3, the `dir` funcition.
 

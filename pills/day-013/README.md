@@ -1,4 +1,4 @@
-# Python daily pills - Day 013: Built-in Data Structures (Part 1): Lists
+# [Python daily pills] Day 013 - Built-in Data Structures (Part 1): Lists
 
 Lists in Python are used to store collection of heterogeneous items. These are mutable, which means that you can change their content without changing their identity. 
 
