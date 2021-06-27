@@ -31,7 +31,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 010 - Python Operators (Part 1)](./pills/day-010)
 - [Day 011 - Python Operators (Part 2)](./pills/day-011)
 - [Day 012 - Python primitive data types in-depth: string, int, float and boolean](./pills/day-012)
-- [Day 013 - Python daily pills: Built-in Data Structures (Part 1): Lists](./pills/day-013)
+- [Day 013 - Built-in Data Structures (Part 1): Lists](./pills/day-013)
 
 ## References
 
