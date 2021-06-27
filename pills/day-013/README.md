@@ -8,7 +8,7 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 
 > Note: We have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
-Create a List:
+Create Lists:
 
 ```python
 # string list 
