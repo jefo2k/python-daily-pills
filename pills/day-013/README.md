@@ -1,10 +1,10 @@
 # [Python daily pills] Day 013 - Built-in Data Structures (Part 1): Lists
 
+Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and [Dictionary](../day-014), all with different qualities and usage.
+
 Lists in Python are used to store collection of heterogeneous items. These are mutable, which means that you can change their content without changing their identity. 
 
 You can recognize lists by their square brackets `[` and `]` that hold elements, separated by a comma `,`. 
-
-Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
 
 > Note: We have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
