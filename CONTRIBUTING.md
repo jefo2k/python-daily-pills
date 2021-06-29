@@ -6,7 +6,7 @@ First off, thank you for considering contributing to Python daily pills. It's pe
 
 Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
 
-1. First [check](./) if the content you want to contribute already exists.
+1. First [check](./README.md) if the content you want to contribute already exists.
 1. If doesn't, fork the repo and create your branch from `main`.
 1. Make a copy of the file `pill/contrib/CONTRIB-TEMPLATE.md` in the same folder. Name it like `your_pill_title.md`
 1. Write your pill.
