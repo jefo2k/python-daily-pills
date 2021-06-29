@@ -35,6 +35,10 @@ You can take as many as you want, there are no known contraindications.
 - [Day 014 - Built-in Data Structures (Part 2): Dictionaries](./pills/day-014)
 - [Day 015 - Pretty Print a Dictionary in Python](./pills/day-015)
 
+## Contributing
+
+If you are interested in contributing for this project, please check for the instructions [here](./CONTRIBUTING.md).
+
 ## References
 
 - [realpython](https://realpython.com)
