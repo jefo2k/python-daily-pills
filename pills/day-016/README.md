@@ -63,7 +63,7 @@ Other Functions:
 >>> my_tuple
 (1, 2, 3, ['english', 'python'])
 
->>> my_tuple[0] = 0 # will throw an error: Tuples are imutables
+>>> my_tuple[0] = 0 # will throw an error: Tuples are immutables
 TypeError: 'tuple' object does not support item assignment
 
 >>> my_tuple.count(2)
