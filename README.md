@@ -34,6 +34,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 013 - Built-in Data Structures (Part 1): Lists](./pills/day-013)
 - [Day 014 - Built-in Data Structures (Part 2): Dictionaries](./pills/day-014)
 - [Day 015 - Pretty Print a Dictionary in Python](./pills/day-015)
+- [Day 016 - Built-in Data Structures (Part 3): Tuples](./pills/day-016)
 
 ## Contributing
 
