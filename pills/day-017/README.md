@@ -58,7 +58,7 @@ Duplicate elements:
 
 ```python
 >>> my_set = {1,1,2,3,4,5,6,6,7,7,7,8}
->>> my_set # observe that only a single occurance of an element is stored
+>>> my_set # observe that only a single occurrence of an element is stored
 {1, 2, 3, 4, 5, 6, 7, 8}
 ```
 
