@@ -1,6 +1,6 @@
 # [Python daily pills] Day 016 - Built-in Data Structures (Part 3): Tuples
 
-Tuples are one of 4 built-in data types in Python used to store collections of data, the other 3 are Sets, [Lists](../day-013) and [Dictionaries](../day-014), all with different qualities and usage.
+Tuples are one of 4 built-in data types in Python used to store collections of data, the other 3 are [Sets](../day-017), [Lists](../day-013) and [Dictionaries](../day-014), all with different qualities and usage.
 
 Tuples are used to store multiple items in a single variable.
 
