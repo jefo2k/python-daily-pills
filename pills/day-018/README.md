@@ -2,7 +2,7 @@
 
 In this little pill we'll show how to merge two dictionaries with a single expression.
 
-If you dont know what a Python dictionary is please check [this pill](../day-014).
+If you don't know what a Python dictionary is please check [this pill](../day-014).
 
 > Note: We have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
