@@ -1,6 +1,6 @@
 # [Python daily pills] Day 018 - Merging two dictionaries with a single expression
 
-In this small pill we'll show how to merge two dictionaries with a single expression
+In this little pill we'll show how to merge two dictionaries with a single expression.
 
 If you dont know what a Python dictionary is please check [this pill](../day-014).
 
