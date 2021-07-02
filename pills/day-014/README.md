@@ -1,6 +1,6 @@
 # [Python daily pills] Day 014 - Built-in Data Structures (Part 2): Dictionaries
 
-Dictionaries are one of 4 built-in data types in Python used to store collections of data, the other 3 are [Tuples](../day-016), Sets, and [Lists](../day-013), all with different qualities and usage.
+Dictionaries are one of 4 built-in data types in Python used to store collections of data, the other 3 are [Tuples](../day-016), [Sets](../day-017), and [Lists](../day-013), all with different qualities and usage.
 
 Dictionaries are used to store data values in key:value pairs.
 
