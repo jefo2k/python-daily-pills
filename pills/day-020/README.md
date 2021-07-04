@@ -34,7 +34,7 @@ To sort a dictionary by value in Python you can use the `sorted()` function.
 [('espresso', 72), ('latte', 56), ('cappuccino', 54), ('americano', 48), ('cortado', 41)]
 ```
 
-> If you don't know what a Python dictionary is please check out [this pill](../day-015).
+> If you don't know what a Python dictionary is please check out [this pill](../day-014).
 
 ## References
 
