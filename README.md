@@ -38,6 +38,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 017 - Built-in Data Structures (Part 4): Sets](./pills/day-017)
 - [Day 018 - Merging two dictionaries with a single expression](./pills/day-018)
 - [Day 019 - Swap two variables in Python](./pills/day-019)
+- [Day 020 - Sort a Dictionary by Value](./pills/day-020)
 
 ## Contributing
 
