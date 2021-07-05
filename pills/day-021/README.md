@@ -34,7 +34,7 @@ a[:-3:-1]  # the last two items, reversed
 a[-3::-1]  # everything except the last two items, reversed
 ```
 
-> Note: Python is kind to the programmer if there are fewer items than you ask for. For example, if you ask for `a[:-2]` and a only contains one element, you get an `empty list` instead of an `error`. Sometimes you would prefer the `error`, so you have to be aware that this may happen.
+> Note: Python is kind to the programmer if there are fewer items than you ask for. For example, if you ask for `a[:-2]` and `a` only contains one element, you get an `empty list` instead of an `error`. Sometimes you would prefer the `error`, so you have to be aware that this may happen.
 
 In the next pill we are going to show some examples.
 
