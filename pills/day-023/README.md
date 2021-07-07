@@ -79,7 +79,7 @@ a is greater than b
 B
 ```
 
-> Note: This technique is known as Ternary Operators, or Conditional Expressions.
+> Note: The last short hand example shows a technique known as Ternary Operators, or Conditional Expressions.
 
 ## References
 
