@@ -44,6 +44,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 023 - Conditions and `if..elif..else` statements](./pills/day-023)
 - [Day 024 - Chain of multiple comparisons](./pills/day-024)
 - [Day 025 - Short-circuit evaluation](./pills/day-025)
+- [Day 026 - While loops](./pills/day-026)
 
 ## Contributing
 
