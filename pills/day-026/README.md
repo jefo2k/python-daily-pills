@@ -3,7 +3,7 @@
 Python has two primitive loop commands:
 
 - `while` loops
-- `for` loops
+- [`for`](../day-027) loops
 
 This pill will be about while loops, a structure that allows executing a set of instructions as long as a condition is true. Let's dive in some examples:
 
