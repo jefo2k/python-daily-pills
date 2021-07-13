@@ -46,6 +46,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 025 - Short-circuit evaluation](./pills/day-025)
 - [Day 026 - While loops](./pills/day-026)
 - [Day 027 - For Loops](./pills/day-027)
+- [Day 028 - The `range()` function](./pills/day-028)
 
 ## Contributing
 
