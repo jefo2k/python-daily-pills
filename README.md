@@ -48,6 +48,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 027 - For Loops](./pills/day-027)
 - [Day 028 - The `range()` function](./pills/day-028)
 - [Day 029 - Iterate over two lists or more](./pills/day-029)
+- [Day 030 - Nested For Loops](./pills/day-030)
 
 ## Contributing
 
