@@ -51,6 +51,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 030 - Nested For Loops](./pills/day-030)
 - [Day 031 - Intro to Python Functions](./pills/day-031)
 - [Day 032 - Function Parameters or Arguments?](./pills/day-032)
+- [Day 033 - Sum an arbitrary number of arguments](./pills/day-033)
 
 ## Contributing
 
