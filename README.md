@@ -53,6 +53,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 032 - Function Parameters or Arguments?](./pills/day-032)
 - [Day 033 - Sum an arbitrary number of arguments](./pills/day-033)
 - [Day 034 - Unpacking Argument Lists](./pills/day-034)
+- [Day 035 - Anonymous functions](./pills/day-035)
 
 ## Contributing
 
