@@ -54,6 +54,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 033 - Sum an arbitrary number of arguments](./pills/day-033)
 - [Day 034 - Unpacking Argument Lists](./pills/day-034)
 - [Day 035 - Anonymous functions](./pills/day-035)
+- [Day 036 - Emulate switch/case statements with dicts and lambdas](./pills/day-036)
 
 ## Contributing
 
