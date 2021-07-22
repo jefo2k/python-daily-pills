@@ -16,7 +16,7 @@ Take a look of this function:
 55
 ```
 
-The condensed version, with a lambda function, will be like that:
+The condensed version, with a `lambda` function, will be like that:
 
 ```python
 >>> mult_int = lambda i, j : i * j
@@ -34,7 +34,7 @@ A more complicated one:
 2.142857142857143
 ```
 
-Again we can condense this entire function into a lambda function:
+Again we can condense this entire function into a `lambda` function:
 
 ```python
 >>> complicated_function = lambda i,j,k,l,m : ((i + j) / (k + l)) * m
@@ -55,7 +55,7 @@ Lets dig in a example using `If-Else` statements to create much more interesting
 'Number is Even'
 ```
 
-This too can be collapsed into a one-line lambda function:
+This too can be collapsed into a one-line `lambda` function:
 
 ```python
 >>> odd_even_lambda = lambda i: 'Number is Even' if i % 2 ==0 else 'Number is Odd'
