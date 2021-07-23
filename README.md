@@ -56,6 +56,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 035 - Anonymous functions](./pills/day-035)
 - [Day 036 - Emulate switch/case statements with dicts and lambdas](./pills/day-036)
 - [Day 037 - Shrink your code with lambdas](./pills/day-037)
+- [Day 038 - 5 ways to reverse a string in Python](./pills/day-038)
 
 ## Contributing
 
