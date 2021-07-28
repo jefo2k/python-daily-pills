@@ -61,6 +61,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 040 - Comparing Python Objects the Right Way: `is` vs `==`](./pills/day-040)
 - [Day 041 - The Walrus Operator](./pills/day-041)
 - [Day 042 - List Comprehensions](./pills/day-042)
+- [Day 043 - list comprehension tricks you might not know](./pills/day-043)
 
 ## Contributing
 
