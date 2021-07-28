@@ -1,4 +1,4 @@
-# [Python daily pills] Day 043 - list comprehension tricks you might not know
+# [Python daily pills] Day 043 - List comprehension tricks you might not know
 
 Creating lists using list comprehension is more pythonic and easier to read. But did you know that you can create other types of objects with the same technique?
 
