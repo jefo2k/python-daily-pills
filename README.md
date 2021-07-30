@@ -63,6 +63,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 042 - List Comprehensions](./pills/day-042)
 - [Day 043 - List comprehension tricks you might not know](./pills/day-043)
 - [Day 044 - Classes and Objects in Python](./pills/day-044)
+- [Day 045 - Inheritance](./pills/day-045)
 
 ## Contributing
 
