@@ -65,6 +65,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 044 - Classes and Objects in Python](./pills/day-044)
 - [Day 045 - Inheritance](./pills/day-045)
 - [Day 046 - Functions as First Class Objects](./pills/day-046)
+- [Day 047 - Create an Iterator](./pills/day-047)
 
 ## Contributing
 
