@@ -28,4 +28,4 @@ Example:
 
 ## References
 
-A nice [w3schools article](https://www.w3schools.com/python/python_iterators.asp).
+A nice [towardsdatascience article](https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b).
