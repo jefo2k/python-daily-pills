@@ -1,4 +1,4 @@
-# [Python daily pills] Day 048 - Create an Iterator
+# [Python daily pills] Day 048 - Use of Enums
 
 Enum is a class in Python for creating enumerations, which are a set of symbolic names attached to **unique**, **constant** values.
 
