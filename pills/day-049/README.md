@@ -1,31 +1,18 @@
-# [Python daily pills] Day 048 - Use of Enums
+# [Python daily pills] Day 049 - Count Objects with Counter
 
-Enum is a class in Python for creating enumerations, which are a set of symbolic names attached to **unique**, **constant** values.
-
-In order to create an Enum, it is necessary to create a class which is the name of the Enum that you want.
+The `Counter()` function is available in Python’s Collections module. We can use this function to count the frequency of each unique item in an iterable list. This function holds the frequency of each unique item in iterable as a key, value pair.
 
 > Note: We have used the Python interpreter, also known as `REPL`, to run the examples. If you don't know what `REPL` is, please [take this pill](../day-005).
 
 Example:
 
 ```python
->>> class Person:
-...   John = 0
-...   Paul = 1
-...   George = 2
-...   Ringo = 3
-...
->>> Person.John
-0
-
-# using the range function
->>> class Person:
-...   John, Paul, George, Ringo = range(4)
-...
->>> Person.Paul
-1
+>>> from collections import Counter
+>>> list1 = [1,1,1,1,2,2,3,3,3,4,5,5,5,6,6,6,6]
+>>> Counter(list1)
+Counter({1: 4, 6: 4, 3: 3, 5: 3, 2: 2, 4: 1})
 ```
 
 ## References
 
-A nice [towardsdatascience article](https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b).
+A great [gitconnected article](https://levelup.gitconnected.com/10-python-tricks-to-code-like-a-pro-programmer-a5faaf596542).
