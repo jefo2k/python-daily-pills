@@ -67,6 +67,7 @@ You can take as many as you want, there are no known contraindications.
 - [Day 046 - Functions as First Class Objects](./pills/day-046)
 - [Day 047 - Create an Iterator](./pills/day-047)
 - [Day 048 - Use of Enums](./pills/day-048)
+- [Day 049 - Count Objects with Counter](./pills/day-049)
 
 ## Contributing
 
