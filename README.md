@@ -79,3 +79,4 @@ If you are interested in contributing for this project, please check for the ins
 - [programiz](https://www.programiz.com/python-programming)
 - [w3schools](https://www.w3schools.com/python)
 - [pythonexamples](https://pythonexamples.org)
+- [Scaler Topics](https://www.scaler.com/topics/python/)
